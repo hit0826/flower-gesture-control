@@ -1,7 +1,7 @@
 
 This is a Python project that uses a webcam to detect how open your fingers are and control the bloom state of a flower video in real time.  
 It uses `MediaPipe` for hand landmark tracking and `OpenCV` to composite the camera feed with the flower video.
-손 관절마디를 보이게 하고 꽃을 움직여 봅시다
+손 관절마디를 보이게 하고 꽃을 움직이는 마법을 부려 봅시다
 ### Included Files
 
 - `hand_joint_recognition.py`: Main application script
